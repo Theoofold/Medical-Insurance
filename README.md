@@ -51,7 +51,7 @@ Combined Analysis
 - SQL
 - MySQL Workbench (assumed environment)
 
-# Business Questions Answered
+# Medical Questions Answered
 - What is the demographic profile of policyholders?
 - How does smoking affect charges and BMI?
 - Which region incurs the highest average charges?
