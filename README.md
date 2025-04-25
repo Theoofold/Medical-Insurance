@@ -49,7 +49,7 @@ Combined Analysis
   
 # Tools Used
 - SQL
-- MySQL Workbench (assumed environment)
+- MySQL Workbench (environment)
 
 # Medical Questions Answered
 - What is the demographic profile of policyholders?
