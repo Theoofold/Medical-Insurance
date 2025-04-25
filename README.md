@@ -2,7 +2,7 @@
 
 # Overview
 This SQL-based project analyzes a health insurance dataset to uncover insights related to policyholder demographics, medical charges, BMI (Body Mass Index) patterns, and family-related trends. The analysis aids in understanding health cost drivers and behavior patterns among insured individuals. Using SQL, key metrics were derived to inform better pricing strategies and identify high-risk groups.
-
+ 
 # Project Summary
 Using SQL, I queried the dataset to analyze the following:
 - Demographic breakdown
